@@ -1,0 +1,9 @@
+2. Write a python program that takes three sides of a triangle as command line argument. Print the
+perimeter and area of the triangle in two different lines. The area should be calculated using Heron’s
+formula.
+Example :
+Input :
+python 2.py 5 4 3
+Output :
+12
+6
