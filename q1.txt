@@ -1,0 +1,12 @@
+﻿1. Write a python program to ask the user’s name and age. And print them in the given format.
+‘Hi! You are <user_name> and your age is <age>.’
+Example,
+Input :
+python 1.py
+Name? Computing
+Age? 100
+Output :
+Hi! You are Computing and your age is 100.
+
+
+
