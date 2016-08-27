@@ -1,0 +1,18 @@
+10. Write a python program “10.py”, that takes a list (comma separated) and a word (even/odd) as
+command line arguments. This program would contain 2 functions (evenSum(ls),
+oddSum(ls) ), both invoked automatically in the body of the program according to the 2 nd
+command line argument:-
+evenSum(ls) – Prints the sum of all even elements
+oddSum(ls) - Prints the sum of all odd elements
+Input 1:
+python 10.py 7,10,9,9,11,0 even
+Output 1:
+10
+Input 2:
+python 10.py 7,10,9,9,11,0
+Output 2:
+36
+Input 3:
+python 10.py 7,10,9,9,11,0 odd
+Output 3:
+36

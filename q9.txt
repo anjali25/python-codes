@@ -1,0 +1,6 @@
+9. Write a python program “9.py”, that takes 1 natural number as command line argument (n)
+and has a recursive function fact(n) that calculates the factorial of n.
+Input:
+python 9.py 7
+Output:
+5040
