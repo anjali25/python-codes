@@ -1,0 +1,15 @@
+4. Write a python program “4.py” that takes a string as command line argument and prints
+• its reverse,
+• and whether it is a palindrome or not.
+Example:
+python 4.py malayalam
+malayalam
+Palindrome
+python 4.py malala
+alalam
+Not a Palindrome
+python 4.py mal aya lamlam
+Not a Palindrome
+
+
+

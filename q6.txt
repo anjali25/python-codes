@@ -1,0 +1,7 @@
+6. Write a python program “6.py” that takes a list with '2n' words as input from the user, and
+creates a dictionary from this list where all even index elements become the key's and odd
+indexed elements are their respective values.
+Example:
+python 6.py
+Enter list: first 0 second 2 third 6 fourth 12 ninth 72
+{'first': 0, 'second': 2, 'third': 6, 'fourth': 12, 'ninth': 72}

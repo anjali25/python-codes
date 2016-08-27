@@ -1,0 +1,10 @@
+5. Write a python program “5.py” to print a palindromic triangle of size 'n'. 'n' is obtained as a
+command line argument.
+Example:
+python 5.py 6
+     1
+    121
+   12321
+  1234321
+ 123454321
+12345654321

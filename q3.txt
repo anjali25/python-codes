@@ -1,0 +1,8 @@
+3. Write a python program “3.py” which takes 1 integer as a command line argument and
+checks whether it is a perfect number or not.
+Note : A perfect number is a positive integer that is equal to the sum of its proper divisors.
+Example:
+python 3.py 28
+Yes
+python 3.py 25
+No
